@@ -20,13 +20,15 @@ Installation
 ```bash
 git clone https://github.com/yourusername/ai-workout-tracker.git
 cd ai-workout-tracker
-
+```
 2. Install dependencies:
+```bash
 pip install opencv-python mediapipe
-
+```
 3. Run the tracker:
+```bash
 python ai_wt_tracker.py
-
+```
 Make sure web cam is connected and accessible.
 
 ## How It Works
