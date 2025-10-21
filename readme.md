@@ -32,6 +32,6 @@ python ai_wt_tracker.py
 Make sure web cam is connected and accessible.
 
 ## How It Works
-OpenCV: Captures real-time video from your webcam and displays exercise feedback.
-MediaPipe: Detects body landmarks to analyze movement and count repetitions.
+- OpenCV: Captures real-time video from your webcam and displays exercise feedback.
+- MediaPipe: Detects body landmarks to analyze movement and count repetitions.
 
